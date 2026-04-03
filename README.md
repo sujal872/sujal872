@@ -29,23 +29,27 @@
 ## 📊 Top GitHub Projects
 
 ### 🔐 Domain Hunter - Recon Toolkit
-<a href="https://github.com/sujal872/domain-hunter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujal872&repo=domainhunter&theme=dark&hide_border=false" />
-</a>
+<p align="center">
+  <a href="https://github.com/sujal872/DomainHunter">
+    <img src="images/DomainHunter.png" width="600" style="border-radius:10px; border:2px solid #00ffcc;"/>
+  </a>
+</p>
 
 ---
 
 ### 🎣 Phishing Detector
 <a href="https://github.com/sujal872/phishing-detector">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujal872&repo=phishing-detector&theme=dark&hide_border=false" />
+    <img src="images/phishing_detecter.png" width="600" style="border-radius:10px; border:2px solid #00ffcc;"/>
 </a>
 
 ---
 
 ### 🔑 Password Manager
-<a href="https://github.com/sujal872/password-manager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujal872&repo=password-manager&theme=dark&hide_border=false" />
-</a>
+<p align="center">
+  <a href="https://github.com/sujal872/Password-Manager">
+    <img src="images/password_manager.png" width="600" height="200" style="border-radius:10px; border:2px solid #00ffcc;"/>
+  </a>
+</p>
 
 ## 📊 GitHub Stats
 
