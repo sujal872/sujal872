@@ -1,3 +1,5 @@
+<body style="background-color:black">
+
 # 💫 About Me
 
 🔐 Aspiring SOC Analyst (L1)  
@@ -67,5 +69,7 @@
 ![](https://visitcount.itsvg.in/api?id=sujal872&icon=0&color=0)
 
 ---
+</body>
 
 <!-- 🔥 Profile crafted for Cybersecurity Journey -->
+
