@@ -26,6 +26,27 @@
 
 ---
 
+## 📊 Top GitHub Projects
+
+### 🔐 Domain Hunter - Recon Toolkit
+<a href="https://github.com/sujal872/domain-hunter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujal872&repo=domainhunter&theme=dark&hide_border=false" />
+</a>
+
+---
+
+### 🎣 Phishing Detector
+<a href="https://github.com/sujal872/phishing-detector">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujal872&repo=phishing-detector&theme=dark&hide_border=false" />
+</a>
+
+---
+
+### 🔑 Password Manager
+<a href="https://github.com/sujal872/password-manager">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujal872&repo=password-manager&theme=dark&hide_border=false" />
+</a>
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=sujal872&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
@@ -35,6 +56,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujal872&theme=dark&hide_border=false&layout=compact)
 
 ---
+
 
 ## 👀 Profile Views
 
