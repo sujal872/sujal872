@@ -39,9 +39,10 @@
 
 ---
 
-### 🎣 Phishing Detector
-<a href="https://github.com/sujal872/phishing-detector">
-    <img src="images/phishing_detecter.png" width="600" style="border-radius:10px; border:2px solid #00ffcc;"/>
+
+## 👻 NetSpecter
+<a href="https://github.com/sujal872/NetSpecter">
+    <img src="images/netspecter.png" width="600" style="border-radius:10px; border:2px solid #00ffcc;"/>
 </a>
 
 ---
