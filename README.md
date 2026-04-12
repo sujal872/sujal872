@@ -56,9 +56,11 @@ Passionate about cybersecurity and actively building hands-on experience with in
 ---
 
 ### 👻 NetSpecter  (Under Development)
+<p align="center">
 <a href="https://github.com/sujal872/NetSpecter">
     <img src="images/netspecter.png" width="600" style="border-radius:10px; border:2px solid #00ffcc;"/>
 </a>
+</p>
 
 ## 📊 GitHub Analytics
 
