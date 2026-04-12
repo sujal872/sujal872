@@ -12,23 +12,31 @@
 
 ---
 
-## 🌐 Connect With Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sujal872)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujal)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sujal)
-
----
-
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🛠️ Tools & Technologies
+### 🚀 Working With
+
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnu&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### 📚 Currently Learning
+
+![Wazuh](https://img.shields.io/badge/Wazuh-0265A3?style=for-the-badge&logo=wazuh&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+
+Passionate about cybersecurity and actively building hands-on experience with industry-standard tools. Currently exploring advanced concepts in penetration testing and SOC operations.
 
 ---
 
 ## 📊 Top GitHub Projects
+
 
 ### 🔐 Domain Hunter - Recon Toolkit
 <p align="center">
@@ -38,15 +46,6 @@
 </p>
 
 ---
-
-
-## 👻 NetSpecter
-<a href="https://github.com/sujal872/NetSpecter">
-    <img src="images/netspecter.png" width="600" style="border-radius:10px; border:2px solid #00ffcc;"/>
-</a>
-
----
-
 ### 🔑 Password Manager
 <p align="center">
   <a href="https://github.com/sujal872/Password-Manager">
@@ -54,22 +53,32 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=sujal872&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=sujal872&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujal872&theme=dark&hide_border=false&layout=compact)
-
 ---
 
+### 👻 NetSpecter  (Under Development)
+<a href="https://github.com/sujal872/NetSpecter">
+    <img src="images/netspecter.png" width="600" style="border-radius:10px; border:2px solid #00ffcc;"/>
+</a>
 
-## 👀 Profile Views
+## 📊 GitHub Analytics
 
-![](https://visitcount.itsvg.in/api?id=sujal872&icon=0&color=0)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sujal872&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujal872&theme=tokyonight" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujal872&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sujal872&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujal872&theme=tokyo-night" />
+</p>
+
 </body>
 
 <!-- 🔥 Profile crafted for Cybersecurity Journey -->
