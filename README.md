@@ -4,7 +4,7 @@
 
 🔐 Aspiring SOC Analyst (L1)  
 🐍 Python & 🖥️ Bash Scripting  
-🛡️ Cybersecurity | Threat Hunting | Incident Response  
+🛡️ Cybersecurity   
 📊 Log Analysis & SIEM (Learning Phase)  
 🚀 Building real-world security projects  
 
@@ -22,14 +22,15 @@
 ## 🛠️ Tools & Technologies
 ### 🚀 Working With
 
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnu&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=snort&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-### 📚 Currently Learning
-
-![Wazuh](https://img.shields.io/badge/Wazuh-0265A3?style=for-the-badge&logo=wazuh&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 Passionate about cybersecurity and actively building hands-on experience with industry-standard tools. Currently exploring advanced concepts in penetration testing and SOC operations.
 
@@ -46,21 +47,36 @@ Passionate about cybersecurity and actively building hands-on experience with in
 </p>
 
 ---
-### 🔑 Password Manager
-<p align="center">
-  <a href="https://github.com/sujal872/Password-Manager">
-    <img src="images/password_manager.png" width="600" height="200" style="border-radius:10px; border:2px solid #00ffcc;"/>
-  </a>
-</p>
 
----
-
-### 👻 NetSpecter  (Under Development)
+### 👻 NetSpecter  
 <p align="center">
 <a href="https://github.com/sujal872/NetSpecter">
     <img src="images/netspecter.png" width="600" style="border-radius:10px; border:2px solid #00ffcc;"/>
 </a>
 </p>
+
+--- 
+
+### 🛡️ PhishSentinel (Under Development)
+
+<p align="center">
+  <a href="#">
+    <img src="images/phishsentinel.png" width="600" height="200"
+    style="border-radius:10px; border:2px solid #00ffcc;"/>
+  </a>
+</p>
+
+<p align="center">
+🚧 <b>Currently Under Development</b> 🚧
+</p>
+
+<p align="center">
+A smart phishing detection tool designed to analyze URLs, emails, and websites for phishing indicators.
+It evaluates domain credibility, detects suspicious patterns, and generates risk scores to help users
+identify potential cyber threats and malicious attacks.
+</p>
+
+---
 
 ## 📊 GitHub Analytics
 
